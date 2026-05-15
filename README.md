@@ -1,2 +1,2 @@
 # data-inventory-ropa-project
-Data Inventory and Record of Processing Activities (ROPA) project demonstrating privacy governance and GDPR documentation skills.
+This project uses a fictional e-commerce company and sample data created for educational and portfolio purposes. No real personal data is included.
